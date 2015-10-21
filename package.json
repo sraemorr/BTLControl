@@ -1,0 +1,18 @@
+{
+  "name": "BTLControl",
+  "version": "0.0.0",
+  "description": "BTLControl",
+  "main": "app.js",
+  "author": {
+    "name": "Apex",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "express3-handlebars": "^0.5.2",
+    "jade": "*",
+    "reveal.js": "^3.1.0",
+    "socket.io": "^1.3.7",
+    "stylus": "*"
+  }
+}
