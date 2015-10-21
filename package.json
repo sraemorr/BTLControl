@@ -1,12 +1,15 @@
 {
-  "name": "BTLControl",
-  "version": "0.0.0",
-  "description": "BTLControl",
-  "main": "app.js",
-  "author": {
-    "name": "Apex",
-    "email": ""
-  },
+    "name": "BTLControl",
+    "version": "0.0.0",
+    "description": "BTLControl",
+    "main": "app.js",
+    "author": {
+        "name": "Apex",
+        "email": ""
+    },
+    "scripts": { 
+        "start": "node app.js"
+    },
   "dependencies": {
     "express": "3.4.4",
     "express3-handlebars": "^0.5.2",
