@@ -1,8 +1,8 @@
 {
   "resolution": "main",
   "tree": {
-    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/a28c67225e7bd5093b8aeb389019ab8b424e43c9/socket.io/socket.io.d.ts",
-    "raw": "registry:dt/socket.io#1.4.4+20160909205835",
-    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/a28c67225e7bd5093b8aeb389019ab8b424e43c9/socket.io/socket.io.d.ts"
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/7713b5342f34ae611da631117143a627050f05d5/socket.io/index.d.ts",
+    "raw": "registry:dt/socket.io#1.4.4+20170313110830",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/7713b5342f34ae611da631117143a627050f05d5/socket.io/index.d.ts"
   }
 }
